@@ -1,1 +1,3 @@
 # terraform-ec2
+terraformでec2を作成する
+apachの導入までを行った
